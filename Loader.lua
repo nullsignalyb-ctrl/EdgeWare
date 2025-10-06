@@ -4,7 +4,7 @@
 ]]
 
 --// --- PLACE YOUR COMPONENTS LINK HERE ---
-local COMPONENTS_URL = "https://raw.githubusercontent.com/yourusername/yourrepo/main/Components.lua"
+local COMPONENTS_URL = "https://raw.githubusercontent.com/nullsignalyb-ctrl/EdgeWare/refs/heads/main/Components.lua"
 local Components = loadstring(game:HttpGet(COMPONENTS_URL))()
 
 --// Services
